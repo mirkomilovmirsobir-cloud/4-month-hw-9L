@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.btn-primary {
+    background-color: greenyellow !important;
+    border: greenyellow;
+    border-radius: 10px;
+}
+
+.btn-primary:hover {
+    background-color: blue !important;
+    color: white !important;
+    transition: all 0.5s linear !important;
+    margin-top: 20px !important;
+    display: block !important;
+}
+
+.btn-secondary {
+    margin-top: 50px !important;
+}
+
+.list-group-item {
+    background-color: rgb(255, 85, 0);
+    color: aliceblue;
+    margin-top: 5px;
+}
+
+.list-group {
+    margin-top: 50px;
+}
+
+.progress {
+    margin-top: 7px;
+}
